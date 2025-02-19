@@ -1,0 +1,31 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+venv/
+env/
+
+# Poetry and pip files
+poetry.lock
+requirements.txt
+
+# Logs and databases
+logs/
+*.log
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PySpark specific files
+derby.log
+metastore_db/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
