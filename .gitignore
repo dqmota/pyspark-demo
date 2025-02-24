@@ -9,10 +9,6 @@ __pycache__/
 venv/
 env/
 
-# Poetry and pip files
-poetry.lock
-requirements.txt
-
 # Logs and databases
 logs/
 *.log
